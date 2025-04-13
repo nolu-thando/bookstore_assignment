@@ -1,0 +1,5 @@
+INSERT INTO customer (first_name, last_name, email, phone) VALUES 
+('Noluthando', 'Mphande', 'noluthandowendy2013@gmail.com', '0646853553'),
+('Amelia', 'Mokumo', 'Motjatjimokumo@gmail.com', '0636689837'),
+('Boitumelo','Monyebodi','happinessboitumelo101@gmail.com','0680364820');
+
